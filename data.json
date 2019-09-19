@@ -1,6 +1,5 @@
 [{
 "id": 1,
-  "imagen_tienda":"https://raw.githubusercontent.com/luishirano/data/master/don_jorge.jpg",
   "razon_social": "Don Jorge",
   "direccion": "Calle las cantuarias",
   "distrito": "Breña",
@@ -58,7 +57,6 @@
   },
   {
   "id": 2,
-    "imagen_tienda":"https://raw.githubusercontent.com/luishirano/data/master/dona_maria.jpg"
     "razon_social": "Doña María",
   "direccion": "Javier Prado 3992",
   "distrito": "San Borja",
