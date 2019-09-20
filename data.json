@@ -1,5 +1,6 @@
 [{
 "id": 1,
+  "historial_compras":[ 1500,1200,800,1350,1400,1750,1520,1645,1000,950,1100,1256],
   "imagen":"https://raw.githubusercontent.com/luishirano/data/master/don_jorge.jpg",
   "razon_social": "Don Jorge",
   "direccion": "Calle las cantuarias",
@@ -58,6 +59,7 @@
   },
   {
   "id": 2,
+    "historial_compras":[ 1230,1500,1000,800,750,1420,980,1450,1050,1000,850,1400],
     "imagen":"https://raw.githubusercontent.com/luishirano/data/master/dona_maria.jpg",
     "razon_social": "Doña María",
   "direccion": "Javier Prado 3992",
