@@ -1,6 +1,8 @@
 [{
 "id": 1,
   "historial_compras":[ 1500,1200,800,1350,1400,1750,1520,1645,1000,950,1100,1256],
+  "historial_compras_2017":[ 1850,1200,1723,2004,1400,1800,1520,1460,1920,1490,1100,2100],
+   "historial_compras_2018":[ 1705,1100,1850,1950,1600,2100,1500,1200,2100,1200,900,1700],
   "imagen":"https://raw.githubusercontent.com/luishirano/data/master/don_jorge_2.jpg",
   "razon_social": "Don Jorge",
   "direccion": "AV.FLORA TRISTAN 680",
@@ -62,6 +64,8 @@
   {
   "id": 2,
     "historial_compras":[ 1230,1500,1000,800,750,1420,980,1450,1050,1000,850,1400],
+     "historial_compras_2017":[ 1200,1550,1450,2004,1750,1800,1800,1460,1500,1490,1200,1800],
+   "historial_compras_2018":[ 1150,1600,1850,1950,1600,1900,1500,1000,2100,1500,900,1600],
     "imagen":"https://raw.githubusercontent.com/luishirano/data/master/dona_maria_2.jpg",
     "razon_social": "Doña María",
   "direccion": "Avenida Cuba 572",
