@@ -115,7 +115,7 @@
   "servicio_internet": "no",
   "atencion": "15",
   "equipos_frios": "4",
-  "servicio_delivery": "si",
+  "servicio_delivery": "no",
   "camaras_seguridad": "si",
   "higiene": "5",
   "mesas_sillas": "si",
